@@ -1,0 +1,19 @@
+﻿Componentes do grupo de trabalho:
+
+
+Daniel
+David
+João
+Gustavo
+Tatiana
+
+
+Disciplina:
+Linguagem de programação básica em C
+
+
+Professor: 
+Marcelo Perantoni 
+
+
+Turno: noite
