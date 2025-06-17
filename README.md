@@ -1,2 +1,1 @@
-# Projeto-software-em-C
-Projeto de desenvolvimento de software em C
+<h2>Este trabalho foi desenvolvido em linguagem C com muito empenho e dedicação. Agradeço ao professor pelo apoio, paciência e pelos ensinamentos ao longo do processo. Sua orientação foi essencial para a realização deste projeto.</h2>
